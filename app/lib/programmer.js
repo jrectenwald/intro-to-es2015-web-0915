@@ -14,5 +14,3 @@ export var addJavaScript  = function(bestLanguages) {
   return bestLanguages + "JavaScript";
 };
 export default Programmer;
-
-//ask steven how these functions actually connect to Programmer
